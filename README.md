@@ -5,17 +5,15 @@
 # ENG:
 
 ## In development:
-	* IOS icon theme
  	* LiteGAPPS
 	* Manjaro CHROOT (mb, only for rooted devices)
-	* Customization
+	* Customization(at big question)
 	* Pixel launcher...?
     
 # RUS:
 
 ## В разработке:
-	* IOS тема для иконок
 	* LiteGAPPS
 	* Manjaro CHROOT (хз, может быть только для рутированных девайсов)
-	* Персонализация
+	* Персонализация(под большим вопросом)
  	* Pixel launcher...?
