@@ -2,18 +2,18 @@
 AOSP14-based GSI rom.
 AOSP14-Базированная GSI прошивка.
 
-ENG:
+#ENG:
 
-  ##In development:
+In development:
     * IOS icon theme
     * LiteGAPPS
     * Manjaro CHROOT (mb, only for rooted devices)
     * Customization
     * Pixel launcher...?
     
-RUS:
+#RUS:
 
-  ##В разработке:
+В разработке:
     * IOS тема для иконок
     * LiteGAPPS
     * Manjaro CHROOT (хз, может быть только для рутированных девайсов)
