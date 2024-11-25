@@ -1,6 +1,6 @@
-## KryOS
-AOSP14-based GSI rom.
-AOSP14-Базированная GSI прошивка.
+# KryOS
+
+<-AOSP14-based GSI rom | AOSP14-Базированная GSI прошивка->
 
 # ENG:
 
